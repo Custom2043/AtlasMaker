@@ -1,0 +1,6 @@
+bin/**
+img/**
+.settings/**
+.classpath
+.project
+Test.png
